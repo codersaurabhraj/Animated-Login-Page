@@ -23,7 +23,7 @@ This project features smooth animations, glassmorphism design, and a clean user 
 
 ## 📸 Preview
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ---
 
